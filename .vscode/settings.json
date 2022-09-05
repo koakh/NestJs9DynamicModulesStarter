@@ -1,0 +1,4 @@
+{
+  "eslint.workingDirectories": ["./consumer-app", "./dynamic-module"],
+  "cSpell.words": ["koakh", "nestjs"]
+}

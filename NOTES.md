@@ -3,6 +3,7 @@
 project started from nestjs sample `25-dynamic-modules`
 
 used in `koakh-laptop:~/Development/@SurrealDB/NestJs9SurrealDbDynamicModule`
+
 ## TLDR
 
 ```shell
@@ -101,8 +102,6 @@ $ npm run build
 
 - [API with NestJS #70. Defining dynamic modules](https://wanago.io/2022/08/15/api-with-nestjs-dynamic-modules/)
 
-notes SurrealDbModule.registerAsync
+notes `SurrealDbModule.registerAsync`
 
 and put that in nest9 dynamic module starter
-
-with link for 
